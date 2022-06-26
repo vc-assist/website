@@ -10,9 +10,18 @@ summaryLength = "10"
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [""] # example: ["fr"] for disable french language
 
+[params.variables]
+color_primary = "green"
+color_secondary = "#001111"
+body_color = "#fff"
+text_color = "#666666"
+text_dark = "#222222"
+text_light = "#959595"
+border_color = "#ACB9C4"
+black = "#000"
+white = "#fff"
+light = "#fdfdfd"
 
 ############################# Outputs ##############################
 [outputs]
