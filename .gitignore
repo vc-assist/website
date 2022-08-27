@@ -4,6 +4,7 @@
 /assets/jsconfig.json
 hugo_stats.json
 /themes/
+/public/
 
 # Executable may be added to repository
 hugo.exe
@@ -71,4 +72,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
