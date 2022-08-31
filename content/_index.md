@@ -39,9 +39,9 @@ feature:
       content : "Our assignments tab lists respective assignments for each individual class in chronological order."
 
     # feature item loop
-    - name : "Optimized Data"
-      image : "images/feature/feature-3.png"
-      content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    # - name : "Optimized Data"
+    #   image : "images/feature/feature-3.png"
+    #   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 
 ##################################### About #############################
 about:
