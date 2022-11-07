@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Changelog label
+<!--- ### Changelog label
 
 {{< changelog "Added" >}}
 {{</ changelog >}}
@@ -73,4 +73,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{</ changelog >}}
 
 {{< changelog "Unreleased" >}}
-{{</ changelog >}}
+{{</ changelog >}} ---!>

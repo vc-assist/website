@@ -16,13 +16,9 @@ team_member:
   image : "images/team/team-member-1.jpg"
   designation : "Designer"
   social:
-  - icon : "fab fa-facebook"
-    link : "#"
-  - icon : "fab fa-twitter"
-    link : "#"
   - icon : "fab fa-linkedin"
     link : "#"
-  - icon : "fab fa-pinterest-p"
+  - icon : "fab fa-github"
     link : "#"
     
 # team member

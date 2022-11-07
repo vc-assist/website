@@ -10,7 +10,7 @@ banner:
   button:
     enable : true
     label : "Get VC Assist"
-    link : "#"
+    link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
 
 ############################## Partners #################################
 partner:
@@ -29,19 +29,24 @@ feature:
   title : "exclusive features"
   feature_item:
     # feature item loop
-    - name : "Grade Calculation"
+    - name : "Grade Calculator"
       image : "images/feature/grade-calculator.svg"
       content : "Our grade calculator allows students to accurately predict future scores pertaining to assignments or tests that have not been inputted into the gradebook yet."
 
     # feature item loop
     - name : "Tracking Assignments"
       image : "images/feature/feature-2.png"
-      content : "Our assignments tab lists respective assignments for each individual class in chronological order."
+      content : "Our assignments tab lists respective assignments for each individual class in chronological order. We also have a feature allowing for you to add the assignments to calendar."
 
     # feature item loop
-    # - name : "Optimized Data"
-    #   image : "images/feature/feature-3.png"
-    #   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    - name : "GPA Display"
+      image : "images/feature/feature-3.png"
+      content : "Choose to display your GPA on the home page with the click of a button. Switch between weighted and unweighted GPA options."
+
+    # feature item loop
+    # - name : "GPA Display"
+    #  image : "images/feature/feature-3.png"
+    #  content : "Choose to display your GPA on the home page with the click of a button. Switch between weighted and unweighted GPA options."
 
 ##################################### About #############################
 about:
@@ -49,15 +54,13 @@ about:
   about_item:
     # about item loop
     - image : "images/about/about-1.png"
-      subtitle : "about VC Assist"
-      title : "Eausmod tempor magna nostrud exercitation"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
-              exercitation ullamco laboris nisi aliquip commodo consequat. duis aute."
+      subtitle : "VC Assist"
+      title : "VC Assist Behind-the-Scenes"
+      content : "Content written by the marketing and media team behind VC Assist. Check out our blogs to learn more about our individual team members, the workings of VC Assist, and development updates."
       button:
         enable : true
         label : "read more"
-        link : "about"
+        link : "blog"
 
     # about item loop
     - image : "images/about/about-2.png"
@@ -69,7 +72,7 @@ about:
       button:
         enable : true
         label : "read more"
-        link : "about"
+        link : "team"
 
 ############################ video ###############################
 promo_video:
@@ -90,6 +93,7 @@ testimonial:
     - name : "davidbai"
       designation : "Student Success Truly Simplified"
       content : I’ve used many productivity, dashboard, and class management apps before, but VCS Assist is one of the best I’ve used in a long time. It integrates flawlessly with many of our schools information systems like PowerSchool and Moodle, and offers bulletin announcements for admin use too. Its modularity is something to be impressed by too—it included widgets like a Grade Calculator(which I use all too often), digital classroom access, and quick access buttons for their incredibly responsive help desk. To top it all off, it’s UI and UX aren’t as gross as other school apps. In summary, VCS Assist is one of the best productivity/school/shortcut apps I’ve used. If your school doesn’t use it, you should definitely recommend it to them! In my experience on beta testing, the devs are incredibly professional and driven to spread the app. They’ll be more than happy to implement it with your school. All in all, 5 out of 5 stars!
+
 
     # testimonial item loop
     - name : "tyzhou05"
