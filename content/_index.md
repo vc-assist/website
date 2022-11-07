@@ -55,7 +55,7 @@ about:
     # about item loop
     - image : "images/about/about-1.png"
       subtitle : "VC Assist"
-      title : "VC Assist Behind-the-Scenes"
+      title : "VC Assist Behind-the-Scenes hi"
       content : "Content written by the marketing and media team behind VC Assist. Check out our blogs to learn more about our individual team members, the workings of VC Assist, and development updates."
       button:
         enable : true
