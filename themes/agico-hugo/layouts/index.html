@@ -25,6 +25,26 @@
 {{ end }}
 {{"<!-- /banner -->"| safeHTML}}
 
+{{"<!-- counter -->" | safeHTML }}
+{{ with .Params.funfacts }}
+{{ if .enable }}
+<section class="bg-light py-5">
+  <div class="container">
+    <div class="row">
+      {{ range .funfact_item }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0 text-center">
+        <p class="h2 font-weight-light text-dark"><span class="counter" data-count="{{ .count }}">0</span>+</p>
+        <h6 class="text-dark font-weight-normal">{{ .name }}</h6>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- counter -->" | safeHTML }}
+
+
 {{"<!-- partner -->"| safeHTML}}
 {{ with .Params.partner }}
 {{ if .enable }}

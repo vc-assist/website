@@ -15,10 +15,10 @@ name = "Blog"
 URL = "blog"
 weight = 1
 
-# [[main]]
-# name = "Contact"
-# URL = "contact"
-# weight = 5
+[[main]]
+name = "Parent Edition"
+URL = "parent"
+weight = 30
 
 # [[main]]
 # weight = 6

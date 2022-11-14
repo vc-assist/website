@@ -8,7 +8,7 @@ description = "VC Assist is the app that enables Valley Christian School student
 author = "VC Assist Team"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "100 Skyway Dr, San Jose, CA 95111"
+address = "100 Skyway Drive, San Jose, CA 95111"
 email = "hello@vcassist.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -17,7 +17,7 @@ google_analitycs_id = "Your ID"
 # main sections
 mainSections = ["blog"]
 # search
-search = false
+search = true
 # custom script on header
 custom_script= ""
 
@@ -29,13 +29,13 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "sign up"
 link = "#"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "" # replace this url with yours
 mailchimp_form_name = "" # replace this code with yours

@@ -12,12 +12,27 @@ banner:
     label : "Get VC Assist"
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
 
+funfacts:
+  enable : true
+  funfact_item:
+
+  - name : "Downloads"
+    count : "1300"
+    
+  - name : "Sign-ins Every Day"
+    count : "200"
+
+  - name : "Team Members"
+    count : "30"
+
+  - name : "Stars"
+    count : "4"
+
 ############################## Partners #################################
 partner:
   enable : true
   partner_logo:
-  ## Akhil
-  - "images/partner/AMSE_Background.png"
+  - "images/partner/AMSE-Background.png"
   - "images/partner/client-logo-2.png"
   - "images/partner/client-logo-3.png"
   - "images/partner/client-logo-4.png"
@@ -125,18 +140,14 @@ testimonial:
 download:
   enable : true
   title : "Download VC Assist Now"
-  image : "images/tablet.jpg"
-  ## AKHIL HELP T-T
-  content : "Check out our app on the app store today.
-  
-Suitable for iPad only."
- ## Akhil why does this text turn gray when i double-space it
-  # playstore:
-  #   label : "Google Play"
-  #   link : "#"
+  image : "images/tablet.png"
+  content : "Check out on the Apple App Store. <br><br> *Only on iPad"
   appstore:
     label : "app store"
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
+  # playstore:
+  #   label : "Google Play"
+  #   link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
 
 
 ############################## pricing ###########################
