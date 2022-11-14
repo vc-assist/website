@@ -16,7 +16,8 @@ banner:
 partner:
   enable : true
   partner_logo:
-  - "images/partner/client-logo-1.png"
+  ## Akhil
+  - "images/partner/AMSE_Background.png"
   - "images/partner/client-logo-2.png"
   - "images/partner/client-logo-3.png"
   - "images/partner/client-logo-4.png"
@@ -65,21 +66,22 @@ about:
     # about item loop
     - image : "images/about/about-2.png"
       subtitle : "about VC Assist"
-      title : "Rehenderit volupate velit proident sunt culpa"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
-              exercitation ullamco laboris nisi aliquip commodo consequat. duis aute."
+      title : "Apply to Our Team"
+      content : "Interested in real-world developer experience? Wanting to delve into the world of business? Check out our team positions now!
+      
+      
+      *Applications are currently closed."
       button:
         enable : true
         label : "read more"
-        link : "team"
+        link : "career"
 
 ############################ video ###############################
 promo_video:
   enable : true
   video_thumbnail : "images/check-video.png"
   video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
-  subtitle : "A Demonstration"
+  subtitle : "Demonstration"
   title : "VC Assist in 60 seconds"
   content : ""
 
@@ -87,7 +89,7 @@ promo_video:
 testimonial:
   enable : true
   subtitle : "testimonial"
-  title : "What Our Clients Says?"
+  title : "What Our Clients Say"
   testimonial_item:
     # testimonial item loop
     - name : "davidbai"
@@ -101,9 +103,9 @@ testimonial:
       content : There are many apps VCHS students use on a daily basis. Notability, Google Drive, and GamePigeon, to name a few. But this app is like none other, and will revolutionize student success at VCHS for years to come. With VCS Assist, I can track how much my AP Statistics grade drops after each test, to the nearest hundredths place. This level of accuracy in grade reporting has never been heard of before. PowerSchool’s suboptimal rounding system will grow to fear their newest, more accurate, more statistically significant competition on the scene. The design and layout of the application is creative and wonderful. I’ve never ran into any issues while using VCS Assist. Whenever I have any questions about my data security and privacy, the app developers are always available to answer. They take user feedback very seriously, and work day and night to continuously update and support the app. VCS Assist is my favorite app, which I’ll use for the rest of my high school career. I can’t wait to wake up tomorrow and start off my day by checking my GPA.
 
     # testimonial item loop
-    - name : "akaahiybsugsuybsuhbus"
+    - name : "Anonymous"
       designation : "I love vc assist"
-      content : A truly amazing application developed by wonderful students! This app is a must have if you are a Valley Christian student.
+      content : WOW! VC Assist is the best school-based app I've ever seen! Besides for calculating the super high scores I'll need on upcoming tests, I also get to check all my homework for each individual class. The UI/UX design is the best I've ever seen, with comfortable interactions, user-friendly interactions, and best of all, a light mode option. The VC Assist team is an amazing group of dedicated, hardworking students - whenever I have a problem, they resolve it almost immediately, even at 2 am! It's also worth noting that the team has an ridiculously funny sense of humor - on April Fool's Day, they cut everyone's GPA in half! VC Assist is the best app I've ever downloaded and I can't wait for future developments!
 
     # # testimonial item loop
     # - name : "Alice kelly"
@@ -123,14 +125,18 @@ testimonial:
 download:
   enable : true
   title : "Download VC Assist Now"
-  image : "images/download-mobile-img.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation."
+  image : "images/tablet.jpg"
+  ## AKHIL HELP T-T
+  content : "Check out our app on the app store today.
+  
+Suitable for iPad only."
+ ## Akhil why does this text turn gray when i double-space it
   # playstore:
   #   label : "Google Play"
   #   link : "#"
   appstore:
     label : "app store"
-    link : "#"
+    link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
 
 
 ############################## pricing ###########################

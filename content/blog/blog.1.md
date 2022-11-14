@@ -1,16 +1,16 @@
 ---
-title: "Hi Akhil"
-date: 2022-10-16
+title: "How We Started"
+date: 2022-11-13
 # watermark text
 watermark: "Blog"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "This is blog #1"
+description : "#"
 # post image
 image : "images/blog/blog-post-1.jpg"
 # post author
-author : "Admin"
+author : "Max Zhuang"
 # post categories
 categories: ["Investment Planning"]
 # post tags
@@ -19,24 +19,10 @@ tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"
 type : "post"
 ---
 
-### Blog 1
+### How We Started
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+VC Assist was born when Brayden Tam, our lovely CEO, found that using an elaborate spreadsheet to calculate grades was rather ineffectual. Then, he banded with a team of developers, Aditya Pawar and Akhil Datla, to create an app housing all the necessary information that a student may want. Over long and sleepless Discord calls, VC Assist was ready for beta testing. 
 
-sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste
-natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab
-illo inventore veri.
+Continuing this path, the team brought on different team members, starting with Vivek Nadig to develop the frontend, and following up with Max Zhuang to oversee the publication of the app. As we’ve continued to expand, the app has continued to grow, currently at 1275 active users. Currently, the team is working to develop both the junior high and parent versions along with the current high school version.
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt labore dolore magna aliqua. enim minim veniam quis nostrud exercitation ullamco. laboris nisi ut aliquip ex ea commodo.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste
-natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab
-illo inventore veri.

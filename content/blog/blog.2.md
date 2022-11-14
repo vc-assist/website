@@ -1,16 +1,16 @@
 ---
-title: "Cupidat non proident sunt officia deserunt mollit anim."
-date: 2019-04-10T09:51:57+06:00
+title: "Growth and Updates"
+date: 2022-11-13
 # watermark text
-watermark: "Blog"
+watermark: ""
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "This is blog #2"
+description : "#"
 # post image
 image : "images/blog/blog-post-2.jpg"
 # post author
-author : "Admin"
+author : "Samuel Fan"
 # post categories
 categories: ["Investment Planning"]
 # post tags
@@ -19,24 +19,10 @@ tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"
 type : "post"
 ---
 
-### Blog 2
+### Growth and Updates
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Since 2021, we have transitioned out of our startup phase through Quest Incubator (a business program at VCHS), expanded our team, and extended our reach to junior high students and parents. We now have 30 team members throughout our frontend, backend, and business subgroups. In addition to expanding our internal team, our student userbase has grown to a staggering 1260+ users! 
 
-sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste
-natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab
-illo inventore veri.
+Furthermore, the future of VC Assist looks bright with our new expansion plans. First, a VC Assist Parent Portal will soon be available to VCHS parents which will be linked with their students’ accounts. One exciting feature of the Parent Portal is the ability to view their students’ grade trends through a line chart. In addition to our Parent Portal, we will soon be able to serve our junior high students by launching a JH VC Assist expansion. Lastly, we hope to further expand VC Assist beyond just Valley Christian. We are seeking to expand to other high schools nearby such as Mitty, Bellarmine, Notre Dame, Presentation, Harker, St. Francis, Lynbrook, and Mission. Our business team is currently working on contacting administrators at these schools.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt labore dolore magna aliqua. enim minim veniam quis nostrud exercitation ullamco. laboris nisi ut aliquip ex ea commodo.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste
-natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab
-illo inventore veri.
+VC Assist has grown profusely since 2021 and our team is still working hard to continue our growth!
