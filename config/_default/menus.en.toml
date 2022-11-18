@@ -56,12 +56,19 @@ weight = 20
 
 #Footer menu
 [[footer]]
-name = "Company History"
-URL = "about"
+name = "Server Status"
+URL = "https://vcassist.statuspage.io/"
+weight = 10
 
 [[footer]]
-name = "About us"
-URL = "about"
+name = "Help Desk"
+URL = "https://vc-assist.atlassian.net/servicedesk/customer/portals"
+weight = 20
+
+[[footer]]
+name = "Parent Portal (Unreleased)"
+URL = "#"
+weight = 30
 
 # [[footer]]
 # name = "Contact us"
@@ -70,7 +77,3 @@ URL = "about"
 # [[footer]]
 # name = "Services"
 # URL = "service"
-
-[[footer]]
-name = "Privacy Policy"
-URL = "#"

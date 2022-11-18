@@ -8,7 +8,7 @@ description = "VC Assist is the app that enables Valley Christian School student
 author = "VC Assist Team"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "100 Skyway Drive, San Jose, CA 95111"
+address = "100 Skyway Drive <br> San Jose, CA 95111"
 email = "hello@vcassist.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -64,11 +64,21 @@ icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icon
 link = "https://www.instagram.com/vc_assist"
 
 [[social]]
-title = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/company/vc-assist"
+title = "discord"
+icon = "fab fa-discord" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://discord.gg/dgwPTYZEku"
 
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://github.com/vc-assist"
+
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/channel/UC2foXUxW0l0SahnjmPH4oTQ"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/company/vc-assist"

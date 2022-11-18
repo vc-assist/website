@@ -2,49 +2,46 @@
 title: "FAQ"
 date: 2020-06-05T15:04:04+02:00
 draft: false
-#watermark: "Coinic"
+watermark: "FAQ"
 page_header_image: "images/background/about.jpg"
 description: "Answers to all your questions here."
 ---
 
 
-### Skill based Gaming or Gambling?
+### VC Assist Development:
 <br>
 
-##### What is the difference between gaming and gambling?
+##### Where can I report a bug?
 
-The difference between the terms is that for gaming the outcome is achieved by skill and not by chance, whereas for gambling the result is based on chance and luck. 
+If you are encountering a bug you can report it [here](https://vc-assist.atlassian.net/servicedesk/customer/portals). Please make sure you are able to reproduce the bug more than once before submitting a report.  
 
 
-##### Are the trading tournaments gambling games?
+##### How can I download VC Assist?
 
-No, not at all. All our games are skill-based. Even though the financial market is often unpredictable, trading can be learned and practiced. 
-Our AI algorithms are also human created and show that it is possible to extract systematically information from the market, which can lead to more successful trading.
+You can download VC Assist by clicking [here](https://apps.apple.com/us/app/vcs-assist/id1606432376).
 
-##### Is it skill-based gaming?
-
-Yes, our games rank players based on their trading success, which is usually measured in profit and loss, some games also take trading risk into account.
 
 <hr>
 
-### FAQ related to prize pots and referral program
+### About VC Assist:
 <br>
 
-##### Is the prize pot a lottery?
+##### How can I join the VC Assist Team?
 
-No, the prize pot is designed to stimulate competition, and to reward people for skillful trading, for generating data on the platform and for helping to grow the ecosystem.
+Our applications are currently closed. All registered Valley Christian users from grades 8 - 12 will be notified when our applications are opened. You can apply on our Career page.
+
+##### Can parents use VC Assist?
+
+Yes! All Valley Christian High School parents can view our VC Assist parent site that provides additional analytical information relating to their child’s performance. Students can link their parents by entering the parent code provided on the preference tab of the application. Sign up for the Parent Portal here (to be released).
 
 
-##### Is it a Ponzi scheme?
 
-No, a Ponzi scheme uses cash inflow to pay returns to existing members. They collapse as soon as there are no new members joining. Our game prize pot logic is very different.
+##### What schools are you available to?
+
+We are currently only available to Valley Christian Junior High, High School and Parents, but weare working on expanding to other schools. 
 
 
-##### Is the referral program a Pyramid scheme?
-
-No, our referral system is a multi-level sales system. It is like commission-based sales and is completely success based. In that sense it is not inflating as some pyramid schemes.
-
-<hr>
+<!--- <hr>
 
 
 ### What about Fairness?
@@ -100,3 +97,5 @@ We believe that retail traders need to be aware of and educated about modern tra
 ##### I like the real-time AI signals a lot. Can I also get them outside of tournament period?
 
 Currently the signals are only available during tournament periods. In the future players may get a subscription option as well.
+
+-->
