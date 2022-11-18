@@ -23,17 +23,17 @@ team_member:
     
 # team member
 - name : "Akhil Datla"
-  image : "images/team/team-member-2.jpg"
-  designation : "Developer"
+  image : "images/team/akhildatla.jpeg"
+  designation : "Co-Founder, COO, VP of Backend Development"
   social:
-  - icon : "fab fa-facebook"
-    link : "#"
-  - icon : "fab fa-twitter"
-    link : "#"
+  - icon : "fas fa-paper-plane"
+    link : "emailto:akhil@vcassist.org"
   - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-pinterest-p"
-    link : "#"
+    link : "https://www.linkedin.com/in/akhil-datla-977506235/"
+  - icon : "fab fa-instagram"
+    link : "https://www.instagram.com/akhil_datla/"
+  - icon : "fab fa-github"
+    link : "https://github.com/akhil-datla"
     
 # team member
 - name : "Aditya Pawar"
