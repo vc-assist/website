@@ -11,6 +11,11 @@ URL = "team"
 weight = 5
 
 [[main]]
+name = "Changelog"
+URL = "Changelog"
+weight = 10
+
+[[main]]
 name = "FAQ"
 URL = "faq"
 weight = 15
