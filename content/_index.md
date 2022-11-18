@@ -141,7 +141,7 @@ download:
   enable : true
   title : "Download VC Assist Now"
   image : "images/tablet.png"
-  content : "Check out on the Apple App Store. <br><br> *Only on iPad"
+  content : "Check it out on the Apple App Store. <br><br> *Only on iPad"
   appstore:
     label : "app store"
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
