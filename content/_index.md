@@ -19,7 +19,7 @@ funfacts:
   - name : "Downloads"
     count : "1300"
     
-  - name : "Sign-ins Every Day"
+  - name : "Students Rely On Daily"
     count : "200"
 
   - name : "Team Members"
