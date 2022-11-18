@@ -1,53 +1,41 @@
 ############# English navigation ##############
 # main menu
-# [[main]]
-# name = "About"
-# URL = "about"
-# weight = 2
-
-# [[main]]
-# name = "Service"
-# URL = "service"
-# weight = 3
-
 [[main]]
 name = "Blog"
 URL = "blog"
 weight = 1
 
-# [[main]]
-# weight = 6
-# name = "Pages"
-# hasChildren = true
-
-# [[main]]
-# parent = "Pages"
-# name = "Pricing"
-# URL = "pricing"
-
 [[main]]
-# parent = "Pages"
 name = "Team"
 URL = "team"
 weight = 5
 
 [[main]]
-# parent = "Pages"
 name = "FAQ"
 URL = "faq"
 weight = 15
 
 [[main]]
-# parent = "Pages"
-name = "Changelog"
-URL = "changelog"
-weight = 10
-
-[[main]]
-# parent = "Pages"
 name = "Career"
 URL = "career"
 weight = 20
+
+# [[main]]
+# weight = 50
+# name = "Editions"
+# hasChildren = true
+
+[[main]]
+parent = "Editions"
+name = "Parent Edition"
+URL = "parent"
+weight = 1
+
+[[main]]
+parent = "Editions"
+name = "Junior High Edition"
+URL = "junior-high"
+weight = 2
 
 #Footer menu
 [[footer]]

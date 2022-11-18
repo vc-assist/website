@@ -29,9 +29,9 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
-label = "Parent Edition"
-link = "parent"
+enable = false
+label = "Sign Up"
+link = "#"
 
 # Subscription
 [subscription]
