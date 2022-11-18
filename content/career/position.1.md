@@ -1,6 +1,6 @@
 ---
-title: "Web Project Manager - Team of PHP MySQL Developers"
-date: 2019-04-10T09:51:57+06:00
+title: "Frontend Developer"
+# date: 2019-04-10T09:51:57+06:00
 # watermark text
 watermark: "Career"
 # page header background image
@@ -10,13 +10,14 @@ description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br
 # career logo
 image : "images/career/logo-1.png"
 # location
-location : "London, United Kingdom"
+location : "Online"
 # job type
-job_type : "Full time"
+#job_type : "Full time"
 # section
-job_category : "MySQL Developer"
+job_category : "Development"
 # job apply link
 apply_link : "#"
+weight : 5
 ---
 
 

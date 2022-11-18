@@ -20,6 +20,9 @@ If you are encountering a bug you can report it [here](https://vc-assist.atlassi
 
 You can download VC Assist by clicking [here](https://apps.apple.com/us/app/vcs-assist/id1606432376).
 
+##### Is there some way to directly contact the team?
+
+Yes! You can reach out to our team members on the team page, or join our discord [here](https://discord.gg/dgwPTYZEku).
 
 <hr>
 

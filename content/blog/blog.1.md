@@ -25,4 +25,4 @@ VC Assist was born when Brayden Tam, our lovely CEO, found that using an elabora
 
 Continuing this path, the team brought on different team members, starting with Vivek Nadig to develop the frontend, and following up with Max Zhuang to oversee the publication of the app. As we’ve continued to expand, the app has continued to grow, currently at 1275 active users. Currently, the team is working to develop both the junior high and parent versions along with the current high school version.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt labore dolore magna aliqua. enim minim veniam quis nostrud exercitation ullamco. laboris nisi ut aliquip ex ea commodo.
+> For Students, By Students
