@@ -16,17 +16,17 @@ funfacts:
   enable : true
   funfact_item:
 
-  - name : "Downloads"
-    count : "1300"
-    
-  - name : "Students Rely On Daily"
-    count : "200"
-
   - name : "Team Members"
     count : "30"
 
-  - name : "Stars"
-    count : "4"
+  - name : "Downloads"
+    count : "1300"
+    
+  - name : "Average Logins"
+    count : "200"
+
+  - name : "App Store Star Rating"
+    count : "4.7"
 
 ############################## Partners #################################
 partner:
