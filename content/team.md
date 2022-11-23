@@ -283,12 +283,10 @@ team_member:
   image : "images/team/team-member-6.jpg"
   designation : "Frontend Developer"
   social:
-  - icon : "fab fa-linkedin"
-    link : "#"
   - icon : "fab fa-instagram"
-    link : "#"
+    link : "https://instagram.com/giraffe.yang/"
   - icon : "fab fa-github"
-    link : "#"
+    link : "https://github.com/giraffe-yang"
 
 # team member
 - name : "Vivian Yue"
