@@ -30,7 +30,7 @@ funfacts:
 
 ############################## Partners #################################
 partner:
-  enable : true
+  enable : false
   partner_logo:
   - "images/partner/AMSE-Background.png"
   - "images/partner/client-logo-2.png"
@@ -141,7 +141,7 @@ download:
   enable : true
   title : "Download VC Assist Now"
   image : "images/tablet.png"
-  content : "Check it out on the Apple App Store. <br><br> *Only on iPad"
+  content : "Check it out on the Apple App Store. (Currently only on iPad)"
   appstore:
     label : "app store"
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"

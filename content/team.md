@@ -14,7 +14,7 @@ team_member:
 # team member
 - name : "Brayden Tam"
   image : "images/team/team-member-1.jpg"
-  designation : "Co-Founder, CEO, VP of Frontend Development"
+  designation : " Co-Founder CEO, VP of Frontend Development"
   social:
   - icon : "fa fa-envelope"
     link : "emailto:brayden@vcassist.org"
@@ -26,8 +26,7 @@ team_member:
 # team member
 - name : "Akhil Datla"
   image : "images/team/akhildatla.jpeg"
-  designation : "Co-Founder, COO, <br><br> VP of Backend Development"
-  # line break does not work????
+  designation : "Co-Founder, COO, VP of Backend" 
   social:
   - icon : "fa fa-envelope"
     link : "emailto:akhil@vcassist.org"
@@ -352,8 +351,7 @@ team_member:
   image : "images/team/team-member-6.jpg"
   designation : "Backend Developer"
   social:
-  - icon : "fab fa-browser"
-  # :/
+  - icon : "far fa-window-maximize"
     link : "https://thatxliner.github.io/"
   - icon : "fab fa-instagram"
     link : "https://www.instagram.com/thatxliner/"

@@ -1,3 +1,19 @@
 *[data-aos-delay] {
     transition-delay: 0s !important;
 }
+
+footer {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: auto;
+}
+
+.download-bottom {
+    position: relative;
+    top: 225px;
+}
+
+/* .img-bottom {
+    transform: scale(1.1);
+} */
