@@ -45,17 +45,17 @@ feature:
   title : "exclusive features"
   feature_item:
     # feature item loop
-    - name : "Grade Calculator"
+    - title : "Grade Calculator"
       image : "images/feature/grade-calculator.svg"
       content : "Our grade calculator allows students to accurately predict future scores pertaining to assignments or tests that have not been inputted into the gradebook yet."
 
     # feature item loop
-    - name : "Tracking Assignments"
+    - title : "Tracking Assignments"
       image : "images/feature/feature-2.png"
       content : "Our assignments tab lists respective assignments for each individual class in chronological order. We also have a feature allowing for you to add the assignments to calendar."
 
     # feature item loop
-    - name : "GPA Display"
+    - title : "GPA Display"
       image : "images/feature/feature-3.png"
       content : "Choose to display your GPA on the home page with the click of a button. Switch between weighted and unweighted GPA options."
 

@@ -9,11 +9,6 @@ page_header_image: "images/background/about.jpg"
 description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
 # career logo
 image : "images/career/logo-1.png"
-# location
-location : "Online"
-# job type
-#job_type : "Full time"
-# section
 job_category : "Development"
 # job apply link
 apply_link : "#"
