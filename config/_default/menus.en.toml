@@ -44,7 +44,7 @@ weight = 15
 
 #Footer menu
 [[footer]]
-name = "Server Status"
+name = "Platform Status"
 URL = "https://vcassist.statuspage.io/"
 weight = 10
 
