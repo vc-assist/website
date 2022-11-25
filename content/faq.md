@@ -22,7 +22,7 @@ You can download VC Assist by clicking [here](https://apps.apple.com/us/app/vcs-
 
 ##### Is there some way to directly contact the team?
 
-Yes! You can reach out to our team members on the team page, or join our discord [here](https://discord.gg/dgwPTYZEku).
+Yes! You can contact us at [hello@vcassist.org](emailto:hello@vcassist.org) or through our socials in the footer of this page. If you require technical support, please use our [helpdesk](https://vc-assist.atlassian.net/servicedesk/customer/portals) or contact [support@vcassist.org](emailto:support@vcassist.org).
 
 <hr>
 

@@ -22,11 +22,11 @@ funfacts:
   - name : "Downloads"
     count : "1300"
     
-  - name : "Average Logins"
+  - name : "Students Use Daily"
     count : "200"
 
   - name : "App Store Star Rating"
-    count : "4.7"
+    count : "4"
 
 ############################## Partners #################################
 partner:

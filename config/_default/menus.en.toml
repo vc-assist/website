@@ -49,19 +49,11 @@ URL = "https://vcassist.statuspage.io/"
 weight = 10
 
 [[footer]]
-name = "Help Desk"
+name = "Helpdesk"
 URL = "https://vc-assist.atlassian.net/servicedesk/customer/portals"
 weight = 20
 
 [[footer]]
-name = "Parent Portal"
+name = "Parent Edition"
 URL = "https://parents.vcassist.org/login"
 weight = 30
-
-# [[footer]]
-# name = "Contact us"
-# URL = "contact"
-
-# [[footer]]
-# name = "Services"
-# URL = "service"
