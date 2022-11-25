@@ -54,6 +54,6 @@ URL = "https://vc-assist.atlassian.net/servicedesk/customer/portals"
 weight = 20
 
 [[footer]]
-name = "Parent Edition"
+name = "Parent Portal"
 URL = "https://parents.vcassist.org/login"
 weight = 30
