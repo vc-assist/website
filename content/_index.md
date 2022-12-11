@@ -20,7 +20,7 @@ funfacts:
     count : "30"
 
   - name : "Downloads"
-    count : "1300"
+    count : "1350"
     
   - name : "Students Use Daily"
     count : "200"

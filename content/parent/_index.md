@@ -1,5 +1,5 @@
 ---
-title: "Parent Edition"
+title: "VC Assist: Parent Edition"
 # watermark text
 watermark: ""
 # page header background image
