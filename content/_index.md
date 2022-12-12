@@ -140,7 +140,7 @@ testimonial:
 download:
   enable : true
   title : "Download VC Assist Now"
-  image : "images/tablet.png"
+  image : "images/NEW_TABLET.png"
   content : "Check it out on the Apple App Store. (Currently only on iPad)"
   appstore:
     label : "app store"
