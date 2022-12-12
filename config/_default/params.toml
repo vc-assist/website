@@ -9,7 +9,7 @@ author = "VC Assist Team"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "100 Skyway Drive <br> San Jose, CA 95111"
-email = "hello@vcassist.org <br> <br> support@vcassist.org"
+email = "hello@vcassist.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
