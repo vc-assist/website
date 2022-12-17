@@ -18,6 +18,7 @@ job_category : "MySQL Developer"
 # job apply link
 apply_link : "#"
 weight : 20
+draft: true
 ---
 
 

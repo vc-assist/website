@@ -13,6 +13,7 @@ job_category : "Development"
 # job apply link
 apply_link : "#"
 weight : 5
+draft: true
 ---
 
 

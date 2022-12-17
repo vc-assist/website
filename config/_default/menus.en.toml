@@ -20,21 +20,21 @@ name = "FAQ"
 URL = "faq"
 weight = 15
 
+[[main]]
+name = "Career"
+URL = "career"
+weight = 20
+
 # [[main]]
-# name = "Career"
-# URL = "career"
-# weight = 20
+# weight = 50
+# name = "Editions"
+# hasChildren = true
 
-[[main]]
-weight = 50
-name = "Editions"
-hasChildren = true
-
-[[main]]
-parent = "Editions"
-name = "VC Assist: Parent Edition"
-URL = "parent"
-weight = 1
+# [[main]]
+# parent = "Editions"
+# name = "VC Assist: Parent Edition"
+# URL = "parent"
+# weight = 1
 
 # [[main]]
 # parent = "Editions"

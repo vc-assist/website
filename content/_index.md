@@ -82,10 +82,7 @@ about:
     - image : "images/about/about-2.png"
       subtitle : "about VC Assist"
       title : "Apply to Our Team"
-      content : "Interested in real-world developer experience? Wanting to delve into the world of business? Check out our team positions now!
-      
-      
-      *Applications are currently closed."
+      content : "Interested in real-world developer experience? Wanting to delve into the world of business? Check out our team positions now!"
       button:
         enable : true
         label : "read more"
