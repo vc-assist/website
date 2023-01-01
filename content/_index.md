@@ -69,7 +69,7 @@ about:
   enable : true
   about_item:
     # about item loop
-    - image : "images/about/about-1.png"
+    - image : "images/vcassist-student-stock.png"
       subtitle : "VC Assist"
       title : "VC Assist Behind-the-Scenes"
       content : "Content written by the marketing and media team behind VC Assist. Check out our blogs to learn more about our individual team members, the workings of VC Assist, and development updates."
