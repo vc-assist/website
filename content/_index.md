@@ -92,9 +92,9 @@ about:
 promo_video:
   enable : true
   video_thumbnail : "images/check-video.png"
-  video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
+  video_link : "https://youtu.be/YV2NCRGIfLU"
   subtitle : "Demonstration"
-  title : "VC Assist in 60 seconds"
+  title : "VC Assist in 120 seconds"
   content : ""
 
 # testimonial
