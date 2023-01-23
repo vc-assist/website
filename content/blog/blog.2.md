@@ -11,12 +11,11 @@ description : "#"
 image : "images/blog/blog-post-2.jpg"
 # post author
 author : "Samuel Fan"
-# post categories
-categories: ["Investment Planning"]
 # post tags
 tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"]
 # type
 type : "post"
+
 ---
 
 ### Growth and Updates

@@ -15,9 +15,14 @@ footer {
 }
 
 .feature-image{
-    width: 100%!important;
+    width: 50%;
     height: auto;
 }
+
+.feature{
+    max-height: 425px;
+}
+
 /* .img-bottom {
     transform: scale(1.1);
 } */

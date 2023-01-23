@@ -51,12 +51,12 @@ feature:
 
     # feature item loop
     - title : "Tracking Assignments"
-      image : "images/feature/feature-2.png"
+      image : "images/feature/assignment_list_2.svg"
       content : "Our assignments tab lists respective assignments for each individual class in chronological order. We also have a feature allowing for you to add the assignments to calendar."
 
     # feature item loop
     - title : "GPA Display"
-      image : "images/feature/feature-3.png"
+      image : "images/feature/gpa_display.svg"
       content : "Choose to display your GPA on the home page with the click of a button. Switch between weighted and unweighted GPA options."
 
     # feature item loop

@@ -11,8 +11,6 @@ description : "#"
 image : "images/blog/blog-post-1.jpg"
 # post author
 author : "Max Zhuang"
-# post categories
-categories: ["Investment Planning", "hi"]
 # post tags
 tags: ["Advice","Business","Consultancy","Market Analysis","Marketing","Finance"]
 # type

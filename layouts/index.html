@@ -78,7 +78,7 @@
       {{ range $index, $element:= .feature_item }}
       {{ $delay := mul $index 200 }}
       <div class="col-lg-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
-        <div class="hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
+        <div class="feature hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
           <img src="{{ .image | absURL }}" class="img-fluid feature-image" alt="feature-image">
           <h5 class="pt-5 pb-3 card-title">{{ .title }}</h5>
           <p class="mb-4">{{ .content | markdownify }}</p>
