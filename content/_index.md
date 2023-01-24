@@ -91,7 +91,7 @@ about:
 ############################ video ###############################
 promo_video:
   enable : true
-  video_thumbnail : "images/check-video.png"
+  video_thumbnail : "images/thumbnail.png"
   video_link : "https://youtu.be/YV2NCRGIfLU"
   subtitle : "Demonstration"
   title : "VC Assist in 120 seconds"
