@@ -20,7 +20,8 @@ footer {
 }
 
 .feature{
-    max-height: 425px;
+    height: 100%;
+    width: auto;
 }
 
 /* .img-bottom {
@@ -35,7 +36,7 @@ footer {
     width: 100%;
     position: relative;
     z-index: 1;
-    height: 600px;
+    height: 500px;
 }
 
 .is-dragging {
@@ -51,8 +52,9 @@ footer {
     top: 0;
     left: 0;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
-
 .menu--item{
     counter-increment: count;
     position: absolute;
@@ -60,7 +62,7 @@ footer {
     top: 0;
     left: 0;
     height: 100%;
-    width: 20vw;
+    width: 30vw;
     padding: 0 1.5vw;
     overflow: hidden;
 }
