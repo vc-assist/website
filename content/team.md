@@ -255,10 +255,12 @@ team_member:
 # team member
 - name : "Joshua Upputuri"
   image : "images/team/joshua.jpeg"
-  designation : "Frontend Developer"
+  designation : "Frontend & Backend Developer"
   social:
   - icon : "fab fa-github"
     link : "https://github.com/realjoshuau"
+  - icon : "fab fa-envelope"
+    link : "mailto:josh@vcassist.org"
 
 # team member
 - name : "Seraph Yang"
