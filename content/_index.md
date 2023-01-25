@@ -26,7 +26,7 @@ funfacts:
     count : "200"
 
   - name : "App Store Star Rating"
-    count : "4.5"
+    count : "4"
 
 ############################## Partners #################################
 partner:

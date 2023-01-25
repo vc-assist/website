@@ -20,10 +20,10 @@ name = "FAQ"
 URL = "faq"
 weight = 15
 
-[[main]]
-name = "Career"
-URL = "career"
-weight = 20
+#[[main]]
+#name = "Career"
+#URL = "career"
+#weight = 20
 
 #[[main]]
 #weight = 50
