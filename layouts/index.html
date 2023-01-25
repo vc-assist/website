@@ -74,17 +74,22 @@
         <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
       </div>
-      <div class="menu row">
-      {{ range $index, $element:= .feature_item }}
-      {{ $delay := mul $index 200 }}
-      <div class="menu--item col-lg-4 col-sm-6 mb-4" data-aos="fade-up" data-aos-delay="{{ $delay }}">
-        <div class="feature hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
-          <img src="{{ .image | absURL }}" class="img-fluid feature-image" alt="feature-image">
-          <h5 class="pt-5 pb-3 card-title">{{ .title }}</h5>
-          <p class="mb-4">{{ .content | markdownify }}</p>
+      <div class="menu" data-aos="fade-up" data-aos-delay="100">
+        <div class="menu--wrapper">
+        {{ range $index, $element:= .feature_item }}
+        {{ $delay := mul $index 200 }}
+          <div class="menu--item mb-4">
+            <figure>
+              <!-- <img src="https://images.unsplash.com/photo-1594786118579-95ba90c801ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="" /> -->
+              <div class="feature hover-bg-primary text-center position-relative px-4 py-5 rounded-lg shadow">
+                <img src="{{ .image | absURL }}" class="img-fluid feature-image" alt="feature-image">
+                <h5 class="pt-5 pb-3 card-title">{{ .title }}</h5>
+                <p class="mb-4">{{ .content | markdownify }}</p>
+              </div>
+            </figure>
+          </div>
+        {{ end }}
         </div>
-      </div>
-      {{ end }}
       </div>
     </div>
   </div>
@@ -275,5 +280,7 @@
 </section>
 {{ end }}
 {{"<!-- pricing -->"| safeHTML}}
+<script type="module" src="/js/carousel.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
 {{ end }}
 {{ end }}
