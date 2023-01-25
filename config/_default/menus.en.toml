@@ -25,22 +25,22 @@ name = "Career"
 URL = "career"
 weight = 20
 
-[[main]]
-weight = 50
-name = "Editions"
-hasChildren = true
+#[[main]]
+#weight = 50
+#name = "Editions"
+#hasChildren = true
 
-[[main]]
-parent = "Editions"
-name = "VC Assist: Parent Edition"
-URL = "parent"
-weight = 1
+#[[main]]
+#parent = "Editions"
+#name = "VC Assist: Parent Edition"
+#URL = "parent"
+#weight = 1
 
-[[main]]
-parent = "Editions"
-name = "Junior High Edition"
-URL = "junior-high"
-weight = 2
+#[[main]]
+#parent = "Editions"
+#name = "Junior High Edition"
+#URL = "junior-high"
+#weight = 2
 
 #Footer menu
 [[footer]]
@@ -53,7 +53,7 @@ name = "Helpdesk"
 URL = "https://vc-assist.atlassian.net/servicedesk/customer/portals"
 weight = 20
 
-[[footer]]
-name = "Parent Portal"
-URL = "https://parents.vcassist.org/login"
-weight = 30
+#[[footer]]
+#name = "Parent Portal"
+#URL = "https://parents.vcassist.org/login"
+#weight = 30

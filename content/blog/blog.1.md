@@ -8,7 +8,7 @@ page_header_image: "images/background/about.jpg"
 # meta description
 description : "#"
 # post image
-image : "images/blog/blog-post-1.jpg"
+image : "images/blog/how-we-started.jpg"
 # post author
 author : "Max Zhuang"
 # post tags

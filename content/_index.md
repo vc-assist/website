@@ -20,13 +20,13 @@ funfacts:
     count : "30"
 
   - name : "Downloads"
-    count : "1350"
+    count : "1400"
     
   - name : "Students Use Daily"
     count : "200"
 
   - name : "App Store Star Rating"
-    count : "4"
+    count : "4.5"
 
 ############################## Partners #################################
 partner:
@@ -79,7 +79,7 @@ about:
         link : "blog"
 
     # about item loop
-    - image : "images/about/about-2.png"
+    - image : "images/team/team.png"
       subtitle : "about VC Assist"
       title : "Apply to Our Team"
       content : "Interested in real-world developer experience? Wanting to delve into the world of business? Check out our team positions now!"

@@ -8,7 +8,7 @@ page_header_image: "images/background/about.jpg"
 # meta description
 description : "#"
 # post image
-image : "images/blog/blog-post-2.jpg"
+image : "images/blog/growth-and-updates.jpg"
 # post author
 author : "Samuel Fan"
 # post tags

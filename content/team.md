@@ -5,7 +5,7 @@ watermark: "Team"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "The amazing team members behind VC Assist."
+description : "The amazing team members behind VC Assist. (Not all members listed due to a lack of pictures)"
 
 layout: "team"
 draft: false
@@ -17,25 +17,25 @@ team_member:
   designation : " Co-Founder, CEO, VP of Frontend Development"
   social:
   - icon : "fa fa-envelope"
-    link : "emailto:brayden@vcassist.org"
+    link : "mailto:brayden@vcassist.org"
   - icon : "fab fa-linkedin"
     link : "https://www.linkedin.com/in/braydentam/"
   - icon : "fab fa-github"
     link : "https://github.com/braydentam"
     
 # team member
-- name : "Akhil Datla"
-  image : "images/team/stock photo.png"
-  designation : "Co-Founder, COO, VP of Backend" 
-  social:
-  - icon : "fa fa-envelope"
-    link : "emailto:akhil@vcassist.org"
-  - icon : "fab fa-linkedin"
-    link : "https://www.linkedin.com/in/akhil-datla-977506235/"
-  - icon : "fab fa-instagram"
-    link : "https://www.instagram.com/akhil_datla/"
-  - icon : "fab fa-github"
-    link : "https://github.com/akhil-datla"
+# - name : "Akhil Datla"
+#   image : "images/team/stock photo.png"
+#   designation : "Co-Founder, COO, VP of Backend" 
+#   social:
+#   - icon : "fa fa-envelope"
+#     link : "emailto:akhil@vcassist.org"
+#   - icon : "fab fa-linkedin"
+#     link : "https://www.linkedin.com/in/akhil-datla-977506235/"
+#   - icon : "fab fa-instagram"
+#     link : "https://www.instagram.com/akhil_datla/"
+#   - icon : "fab fa-github"
+#     link : "https://github.com/akhil-datla"
     
 # team member
 - name : "Aditya Pawar"
@@ -43,13 +43,11 @@ team_member:
   designation : "Co-Founder, CTO, VP of Backend Development"
   social:
   - icon : "fa fa-envelope"
-    link : "emailto:aditya@vcassist.org"
+    link : "mailto:aditya@vcassist.org"
   - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
+    link : "https://www.linkedin.com/in/aditya-pawar-217732240"
   - icon : "fab fa-github"
-    link : "#"
+    link : "https://github.com/adityapawar1"
     
 # team member
 - name : "Max Zhuang"
@@ -57,102 +55,98 @@ team_member:
   designation : "CBO, Marketing, Finance"
   social:
   - icon : "fa fa-envelope"
-    link : "emailto:max@vcassist.org"
+    link : "mailto:max@vcassist.org"
   - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+    link : "https://www.linkedin.com/in/maxwzhuang"
     
 # team member
-- name : "Vivek Nadig"
-  image : "images/team/stock photo.png"
-  designation : "VP of Frontend"
-  social:
-  - icon : "fa fa-envelope"
-    link : "emailto:vivek@vcassist.org"
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Vivek Nadig"
+#   image : "images/team/stock photo.png"
+#   designation : "VP of Frontend"
+#   social:
+#   - icon : "fa fa-envelope"
+#     link : "emailto:vivek@vcassist.org"
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
     
 # team member
-- name : "Stephen He"
-  image : "images/team/stock photo.png"
-  designation : "VP of Media"
-  social:
-  - icon : "fa fa-envelope"
-    link : "emailto:stephen@vcassist.org"
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Stephen He"
+#   image : "images/team/stock photo.png"
+#   designation : "VP of Media"
+#   social:
+#   - icon : "fa fa-envelope"
+#     link : "emailto:stephen@vcassist.org"
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
-- name : "Daisy Zeng"
-  image : "images/team/stock photo.png"
-  designation : "Marketing, Website Developer"
-  social:
-  - icon : "fa fa-envelope"
-    link : "emailto:daisy.zeng@warriorlife.net"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Daisy Zeng"
+#   image : "images/team/stock photo.png"
+#   designation : "Marketing, Website Developer"
+#   social:
+#   - icon : "fa fa-envelope"
+#     link : "emailto:daisy.zeng@warriorlife.net"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
     
 # team member
-- name : "Chloe Ha"
-  image : "images/team/stock photo.png"
-  designation : "Marketing"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Chloe Ha"
+#   image : "images/team/stock photo.png"
+#   designation : "Marketing"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
     
 # team member
-- name : "Srijay Vejendla"
-  image : "images/team/stock photo.png"
-  designation : "Marketing"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Srijay Vejendla"
+#   image : "images/team/stock photo.png"
+#   designation : "Marketing"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
     
 # team member
-- name : "Jonah Wu"
-  image : "images/team/stock photo.png"
-  designation : "Media"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Jonah Wu"
+#   image : "images/team/stock photo.png"
+#   designation : "Media"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
 - name : "Chloe Huang"
   image : "images/team/Chloe Huang.jpg"
   designation : "Media"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+  # social:
+  # - icon : "fab fa-linkedin"
+  #   link : "#"
+  # - icon : "fab fa-instagram"
+  #   link : "#"
+  # - icon : "fab fa-github"
+  #   link : "#"
 
 # team member
 - name : "Sammi Wang"
@@ -160,47 +154,43 @@ team_member:
   designation : "Media"
   social:
   - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+    link : "https://www.linkedin.com/in/sammi-wang-976979246"
 
 # team member
-- name : "Tanish Goli"
-  image : "images/team/stock photo.png"
-  designation : "Finance"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Tanish Goli"
+#   image : "images/team/stock photo.png"
+#   designation : "Finance"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
 - name : "Samuel Fan"
   image : "images/team/Samuel Fan.jpg"
   designation : "Finance"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+  # social:
+  # - icon : "fab fa-linkedin"
+  #   link : "#"
+  # - icon : "fab fa-instagram"
+  #   link : "#"
+  # - icon : "fab fa-github"
+  #   link : "#"
 
 # team member
 - name : "Emily Tang"
   image : "images/team/Emily Tang.jpg"
   designation : "Finance"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+  # social:
+  # - icon : "fab fa-linkedin"
+  #   link : "#"
+  # - icon : "fab fa-instagram"
+  #   link : "#"
+  # - icon : "fab fa-github"
+  #   link : "#"
 
 # team member
 - name : "Zoe Campagna"
@@ -217,46 +207,42 @@ team_member:
   image : "images/team/Ryan Chiou.jpg"
   designation : "UI/UX Designer"
   social:
-  - icon : "fab fa-linkedin"
-    link : "#"
   - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+    link : "https://www.instagram.com/ryann.chiou"
 
 # team member
-- name : "Susie Wen"
-  image : "images/team/stock photo.png"
-  designation : "UI/UX Designer"
-  social:
-  - icon : "fab fa-instagram"
-    link : "https://www.instagram.com/susie_vven/"
-  - icon : "fab fa-spotify"
-    link : "https://open.spotify.com/user/v8ocvwja4lqq0ua6cwrrfvdve"
+# - name : "Susie Wen"
+#   image : "images/team/stock photo.png"
+#   designation : "UI/UX Designer"
+#   social:
+#   - icon : "fab fa-instagram"
+#     link : "https://www.instagram.com/susie_vven/"
+#   - icon : "fab fa-spotify"
+#     link : "https://open.spotify.com/user/v8ocvwja4lqq0ua6cwrrfvdve"
 
 # team member
-- name : "Sarah Chiou"
-  image : "images/team/stock photo.png"
-  designation : "UI/UX Designer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Sarah Chiou"
+#   image : "images/team/stock photo.png"
+#   designation : "UI/UX Designer"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
-- name : "Roshan Bellary"
-  image : "images/team/stock photo.png"
-  designation : "Frontend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Roshan Bellary"
+#   image : "images/team/stock photo.png"
+#   designation : "Frontend Developer"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
 - name : "Shengzhi Hu"
@@ -271,12 +257,8 @@ team_member:
   image : "images/team/joshua.jpeg"
   designation : "Frontend Developer"
   social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
   - icon : "fab fa-github"
-    link : "#"
+    link : "https://github.com/realjoshuau"
 
 # team member
 - name : "Seraph Yang"
@@ -289,82 +271,70 @@ team_member:
     link : "https://github.com/giraffe-yang"
 
 # team member
-- name : "Vivian Yue"
-  image : "images/team/stock photo.png"
-  designation : "Frontend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Vivian Yue"
+#   image : "images/team/stock photo.png"
+#   designation : "Frontend Developer"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
-- name : "Justin Shi"
-  image : "images/team/stock photo.png"
-  designation : "Backend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Justin Shi"
+#   image : "images/team/stock photo.png"
+#   designation : "Backend Developer"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "#"
+#   - icon : "fab fa-instagram"
+#     link : "#"
+#   - icon : "fab fa-github"
+#     link : "#"
 
 # team member
-- name : "Alex Ott"
-  image : "images/team/stock photo.png"
-  designation : "Backend Developer"
-  social:
-  - icon : "fab fa-github"
-    link : "https://github.com/AlexanderHOtt"
+# - name : "Alex Ott"
+#   image : "images/team/stock photo.png"
+#   designation : "Backend Developer"
+#   social:
+#   - icon : "fab fa-github"
+#     link : "https://github.com/AlexanderHOtt"
 
 # team member
-- name : "Canis Li"
-  image : "images/team/stock photo.png"
-  designation : "Backend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+# - name : "Amaar Chughtai"
+#   image : "images/team/stock photo.png"
+#   designation : "Backend Developer"
+#   social:
+#   - icon : "fab fa-linkedin"
+#     link : "https://www.linkedin.com/in/amaar-chughtai-0b1508257"
+#   - icon : "fab fa-github"
+#     link : "https://github.com/DragonXDev"
 
 # team member
-- name : "Amaar Chughtai"
-  image : "images/team/stock photo.png"
-  designation : "Backend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "https://www.linkedin.com/in/amaar-chughtai-0b1508257"
-  - icon : "fab fa-github"
-    link : "https://github.com/DragonXDev"
-
-# team member
-- name : "Bryan Hu"
-  image : "images/team/stock photo.png"
-  designation : "Backend Developer"
-  social:
-  - icon : "far fa-window-maximize"
-    link : "https://thatxliner.github.io/"
-  - icon : "fab fa-instagram"
-    link : "https://www.instagram.com/thatxliner/"
-  - icon : "fab fa-github"
-    link : "https://github.com/ThatXliner"
-  - icon : "fab fa-spotify"
-    link : "https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm"
+# - name : "Bryan Hu"
+#   image : "images/team/stock photo.png"
+#   designation : "Backend Developer"
+#   social:
+#   - icon : "far fa-window-maximize"
+#     link : "https://thatxliner.github.io/"
+#   - icon : "fab fa-instagram"
+#     link : "https://www.instagram.com/thatxliner/"
+#   - icon : "fab fa-github"
+#     link : "https://github.com/ThatXliner"
+#   - icon : "fab fa-spotify"
+#     link : "https://open.spotify.com/user/oi9w3ajx9ojgtywuv7k3605mm"
 
 # team member
 - name : "Aanya Chuahan"
   image : "images/team/Aanya.jpg"
   designation : "Backend Developer"
-  social:
-  - icon : "fab fa-linkedin"
-    link : "#"
-  - icon : "fab fa-instagram"
-    link : "#"
-  - icon : "fab fa-github"
-    link : "#"
+  # social:
+  # - icon : "fab fa-linkedin"
+  #   link : "#"
+  # - icon : "fab fa-instagram"
+  #   link : "#"
+  # - icon : "fab fa-github"
+  #   link : "#"
 ---

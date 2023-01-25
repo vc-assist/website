@@ -20,9 +20,12 @@
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
 
+<link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+<link rel="icon" href="images/logo.png" type="image/x-icon">
+
 <!-- favicon -->
-<link rel="shortcut icon" href="{{ site.Params.favicon | relURL }}" type="image/x-icon">
-<link rel="icon" href="{{ site.Params.favicon | relURL }}" type="image/x-icon">
+<!-- <link rel="shortcut icon" href="{{ site.Params.favicon | relURL }}" type="image/x-icon">
+<link rel="icon" href="{{ site.Params.favicon | relURL }}" type="image/x-icon"> -->
 <meta name="msapplication-TileColor" content="{{site.Params.variables.primary_color | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
