@@ -1,6 +1,8 @@
-VC Assist Website
+# VC Assist Website
 
-## editing (for marketing personnel)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92010bc5-5e0d-4340-aad8-7953865aacab/deploy-status)](https://app.netlify.com/sites/vcassist/deploys)
+
+## Making Edits
 
 ### prerequisites
 
