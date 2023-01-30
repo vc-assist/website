@@ -11,18 +11,18 @@ description: "Answers to all your questions here."
 ### VC Assist Development:
 <br>
 
-##### Where can I report a bug?
+##### Where can I receive technical support?
 
-If you are encountering a bug you can report it [here](https://vc-assist.atlassian.net/servicedesk/customer/portals). Please make sure you are able to reproduce the bug more than once before submitting a report.  
+Please contact us through our [helpdesk](https://vc-assist.atlassian.net/servicedesk/customer/portals) or [support@vcassist.org](emailto:support@vcassist.org). If you are encountering a bug, please make sure you are able to reproduce the bug more than once before submitting a report.
 
 
 ##### How can I download VC Assist?
 
-You can download VC Assist by clicking [here](https://apps.apple.com/us/app/vcs-assist/id1606432376).
+If you are a student, you can download VC Assist by clicking [here](https://apps.apple.com/us/app/vcs-assist/id1606432376).
 
 ##### Is there some way to directly contact the team?
 
-Yes! You can contact us at [hello@vcassist.org](emailto:hello@vcassist.org) or through our socials in the footer of this page. If you require technical support, please use our [helpdesk](https://vc-assist.atlassian.net/servicedesk/customer/portals) or contact [support@vcassist.org](emailto:support@vcassist.org).
+Yes! You can contact us at [hello@vcassist.org](emailto:hello@vcassist.org) or through our socials in the footer of this page.
 
 <hr>
 
@@ -31,11 +31,11 @@ Yes! You can contact us at [hello@vcassist.org](emailto:hello@vcassist.org) or t
 
 ##### How can I join the VC Assist Team?
 
-Our applications are currently closed. All registered Valley Christian users from grades 8 - 12 will be notified when our applications are opened. You can apply on our Career page.
+Our applications are currently closed. All registered Valley Christian users from grades 8 - 12 will be notified when our applications are opened. You can apply on our [Career](https://vcassist.org/career/) page.
 
 ##### Can parents use VC Assist?
 
-Yes! All Valley Christian High School parents can view our VC Assist parent site that provides additional analytical information relating to their child’s performance. Students can link their parents by entering the parent code provided on the preference tab of the application. Sign up for the Parent Portal here (to be released).
+Yes! All Valley Christian High School parents can view our VC Assist parent site that provides additional analytical information relating to their child’s performance. Students can link their parents by entering the parent code provided on the preference tab of the application. Access the Parent Portal [here](https://parents.vcassist.org).
 
 
 ##### What schools are you available to?
