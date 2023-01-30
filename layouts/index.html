@@ -101,7 +101,7 @@
     <div class="row align-items-center">
       {{ if not (modBool $i 2)}}
       <div class="col-lg-6 col-md-5 text-center text-md-left mb-4 mb-md-0">
-        <img src="{{ .image | absURL}}" class="img-fluid" alt="about-image" data-aos="fade-right">
+        <img src="{{ .image | absURL}}" class="img-fluid rounded-lg" alt="about-image" data-aos="fade-right">
       </div>
       <div class="col-lg-6 col-md-7 text-center text-md-left">
         <p class="subtitle" data-aos="fade-left">{{ .subtitle }}</p>
@@ -125,7 +125,7 @@
         {{ end }}
       </div>
       <div class="col-lg-6 col-md-5 text-center text-md-left order-1 order-md-2 mb-4 mb-md-0">
-        <img src="{{ .image | absURL}}" class="img-fluid" alt="about-image" data-aos="fade-left">
+        <img src="{{ .image | absURL}}" class="img-fluid rounded-lg" alt="about-image" data-aos="fade-left">
       </div>
       {{ end }}
     </div>
@@ -247,7 +247,7 @@
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .Params.pricing.title }}</h2>
         {{ end }}
       </div>
-      
+
       {{$show_items:= .show_items}}
       {{ with site.GetPage (string .section) }}
 
