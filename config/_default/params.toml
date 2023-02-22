@@ -2,11 +2,11 @@
 # favicon
 favicon = "images/favicon.ico"
 # logo
-logo = "images/logo.png"
+logo = "images/logo.svg"
 # OpenGraph / Twitter Card metadata
 description = "VC Assist is the app that enables Valley Christian School students to build effective study habits by providing information that a student should have easy access to."
 author = "VC Assist Team"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "100 Skyway Drive <br> San Jose, CA 95111"
 email = "hello@vcassist.org"
