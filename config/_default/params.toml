@@ -4,7 +4,7 @@ favicon = "images/favicon.ico"
 # logo
 logo = "images/logo.svg"
 # OpenGraph / Twitter Card metadata
-description = "VC Assist is the app that enables Valley Christian School students to build effective study habits by providing information that a student should have easy access to."
+description = "VC Assist is a student-run, not-for-profit organization committed to ensuring academic success for all Valley Christian School (VCS) students."
 author = "VC Assist Team"
 image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -76,7 +76,7 @@ link = "https://github.com/vc-assist"
 [[social]]
 title = "youtube"
 icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.youtube.com/channel/UC2foXUxW0l0SahnjmPH4oTQ"
+link = "https://www.youtube.com/@vcassist"
 
 [[social]]
 title = "linkedin"
