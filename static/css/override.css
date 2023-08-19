@@ -19,6 +19,9 @@ footer {
     max-height: 425px;
 }
 
+footer > section {
+    padding-top:4rem;
+}
 /* .img-bottom {
     transform: scale(1.1);
 } */
