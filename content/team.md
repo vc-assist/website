@@ -113,12 +113,12 @@ team_member:
 
     
 # team member
-# - name : "Srijay Vejendla"
-#   image : "images/team/stock photo.png"
-#   designation : "Marketing"
-#   social:
-#   - icon : "fab fa-linkedin"
-#     link : "#"
+- name : "Srijay Vejendla"
+   image : "images/team/stock photo.png"
+   designation : "Chief Business Officer"
+   social:
+   - icon : "fab fa-linkedin"
+     link : "https://www.linkedin.com/in/srijay-vejendla-3b5146250"
 #   - icon : "fab fa-instagram"
 #     link : "#"
 #   - icon : "fab fa-github"
