@@ -10,6 +10,11 @@ name = "Team"
 URL = "team"
 weight = 5
 
+[[main]]
+name = "Previous Members"
+URL = "previous-members"
+weight = 30
+
 # [[main]]
 # name = "Changelog"
 # URL = "changelog"
