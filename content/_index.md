@@ -2,11 +2,11 @@
 ############################### Banner #################################
 banner:
   enable : true
-  bg_image : "images/background/banner.png"
+  bg_image : "images/background/banner.webp"
   title : "Student success simplified."
   watermark : ""
   content : "VC Assist is a student-run, not-for-profit organization committed to ensuring academic success for all Valley Christian School (VCS) students. Our mobile app provides a diverse set of features that will help students stay on top of their academics."
-  image : "images/banner/banner-1.png"
+  image : "images/banner/banner-1.webp"
   button:
     enable : true
     label : "Download VC Assist Today!"
@@ -69,7 +69,7 @@ about:
   enable : true
   about_item:
     # about item loop
-    - image : "images/vcassist-student-stock.png"
+    - image : "images/vcassist-student-stock.webp"
       subtitle : "VC Assist"
       title : "VC Assist Behind-the-Scenes"
       content : "Content written by the marketing and media team behind VC Assist. Check out our blogs to learn more about our individual team members, the workings of VC Assist, and development updates."
@@ -79,7 +79,7 @@ about:
         link : "blog"
 
     # about item loop
-    - image : "images/team/team.png"
+    - image : "images/team/team.webp"
       subtitle : "about VC Assist"
       title : "Apply to Our Team"
       content : "Interested in real-world developer experience? Wanting to delve into the world of business? Check out our team positions now!"
@@ -91,7 +91,7 @@ about:
 ############################ video ###############################
 promo_video:
   enable : true
-  video_thumbnail : "images/thumbnail.png"
+  video_thumbnail : "images/thumbnail.webp"
   video_link : "https://youtu.be/YV2NCRGIfLU"
   subtitle : "Demonstration"
   title : "VC Assist in 120 seconds"
@@ -137,7 +137,7 @@ testimonial:
 download:
   enable : true
   title : "Download VC Assist Today!"
-  image : "images/NEW_TABLET.png"
+  image : "images/NEW_TABLET.webp"
   content : "Currently only available on iPads."
   appstore:
     label : "app store"
