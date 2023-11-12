@@ -46,9 +46,11 @@ team_member:
       - icon: fab fa-github
         link: https://github.com/ThatXliner
   - name: Amaar Chughtai
-    image: images/team/stock-photo.png
+    image: images/team/Amaar.png
     designation: Backend Developer
     social:
+      - icon: fab fa-linkedin
+        link: https://www.linkedin.com/in/amaar-chughtai-0b1508257/
       - icon: fab fa-github
         link: https://github.com/DragonXDev
   - name: Seraph Yang
