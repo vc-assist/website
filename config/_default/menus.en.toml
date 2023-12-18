@@ -50,12 +50,12 @@ weight = 15
 #Footer menu
 [[footer]]
 name = "Platform Status"
-URL = "https://vcassist.statuspage.io/"
+URL = "https://vi.vcassist.org/status"
 weight = 10
 
 [[footer]]
 name = "Helpdesk"
-URL = "https://vc-assist.atlassian.net/servicedesk/customer/portals"
+URL = "https://vi.vcassist.org/helpdesk"
 weight = 20
 
 #[[footer]]
