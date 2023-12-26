@@ -49,6 +49,11 @@ team_member:
     social:
       - icon: fab fa-instagram
         link: https://www.instagram.com/ryann.chiou
+  - name: Daisy Zeng
+    image: images/team/stock-photo.png
+    designation: Marketing, Website Developer
+    social:
+      - icon: fab fa-instagram
+        link: https://www.instagram.com/dizzthedizz_0w0/
 
 ---
-
