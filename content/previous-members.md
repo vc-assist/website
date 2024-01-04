@@ -53,7 +53,5 @@ team_member:
     image: images/team/stock-photo.png
     designation: Marketing, Website Developer
     social:
-      - icon: fab fa-instagram
-        link: https://www.instagram.com/dizzthedizz_0w0/
 
 ---
