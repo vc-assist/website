@@ -7,18 +7,6 @@ description: The current team behind VC Assist. (Not all members listed
 layout: team
 draft: false
 team_member:
-  - name: Samuel Fan
-    image: images/team/Samuel Fan.jpg
-    designation: Chief Executive Officer
-  - name: Srijay Vejendla
-    image: images/team/Srijay Vejendla.png
-    designation: Chief Business Officer
-    social:
-      - icon: fab fa-linkedin
-        link: https://www.linkedin.com/in/srijay-vejendla-3b5146250
-  - name: Chloe Huang
-    image: images/team/Chloe Huang.jpg
-    designation: VP of Media
   - name: Shengzhi Hu
     image: images/team/Shengzhi Hu.jpg
     designation: Chief Technology Officer
