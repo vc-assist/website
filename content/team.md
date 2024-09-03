@@ -41,22 +41,5 @@ team_member:
         link: https://www.linkedin.com/in/amaar-chughtai-0b1508257/
       - icon: fab fa-github
         link: https://github.com/DragonXDev
-  - name: Seraph Yang
-    image: images/team/Seraph.jpg
-    designation: Frontend Developer
-    social:
-      - icon: fab fa-instagram
-        link: https://instagram.com/giraffe.yang/
-      - icon: fab fa-github
-        link: https://github.com/giraffe-yang
-  - name: Sammi Wang
-    image: images/team/Sammi.jpg
-    designation: Media
-    social:
-      - icon: fab fa-linkedin
-        link: https://www.linkedin.com/in/sammi-wang-976979246
-  - name: Emily Tang
-    image: images/team/Emily Tang.jpg
-    designation: Finance
 
 ---
