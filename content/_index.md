@@ -138,10 +138,19 @@ download:
   enable : true
   title : "Download VC Assist Today!"
   image : "images/NEW_TABLET.webp"
-  content : "Currently only available on iPads."
+  content : "Available on iOS, iPad, and desktop!"
   appstore:
-    label : "app store"
+    label : "iOS / iPadOS"
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
+  macos:
+    label: "MacOS"
+    link: "https://drive.google.com/uc?export=download&id=1KAB4hZYWhfDaGq6LpcMu_kWNwqNiV8IC"
+  linux:
+    label: "Linux"
+    link: "https://drive.google.com/uc?export=download&id=1FoiGSMEiorr4yOt0ELbxKUfP9aaXDzHF"
+  windows:
+    label: "Windows"
+    link: "https://drive.google.com/uc?export=download&id=1ldPGyP4Yip46-FguC9eYwyQMolPFaLdD"
   # playstore:
   #   label : "Google Play"
   #   link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
