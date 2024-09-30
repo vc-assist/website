@@ -144,13 +144,13 @@ download:
     link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
   macos:
     label: "MacOS"
-    link: "https://drive.google.com/uc?export=download&id=1KAB4hZYWhfDaGq6LpcMu_kWNwqNiV8IC"
+    link: "https://drive.google.com/uc?export=download&id=1XxxB79CGYQoMSypbleO3n0jXLh9oUeHl"
   linux:
     label: "Linux"
-    link: "https://drive.google.com/uc?export=download&id=1FoiGSMEiorr4yOt0ELbxKUfP9aaXDzHF"
+    link: "https://drive.google.com/uc?export=download&id=1weK8WowfAMaBpWikistdxVPb71kICaoB"
   windows:
     label: "Windows"
-    link: "https://drive.google.com/uc?export=download&id=1ldPGyP4Yip46-FguC9eYwyQMolPFaLdD"
+    link: "https://drive.google.com/uc?export=download&id=1wGJZMVybP8MJoHZBZQbKPKZGrd_PCBUS"
   # playstore:
   #   label : "Google Play"
   #   link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
