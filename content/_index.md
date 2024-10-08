@@ -7,10 +7,12 @@ banner:
   watermark : ""
   content : "VC Assist is a student-run, not-for-profit organization committed to ensuring academic success for all Valley Christian School (VCS) students. Our mobile app provides a diverse set of features that will help students stay on top of their academics."
   image : "images/banner/banner-1.webp"
+  download_button:
+     enable: true
   button:
-    enable : true
-    label : "Download VC Assist Today!"
-    link : "https://apps.apple.com/us/app/vcs-assist/id1606432376"
+    enable: false
+    label: ""
+    link : ""
 
 funfacts:
   enable : true

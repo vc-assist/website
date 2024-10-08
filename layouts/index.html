@@ -13,6 +13,18 @@
       <div class="col-lg-6 pl-lg-0 text-center text-lg-left">
         <h1 class="text-white position-relative" data-aos="fade-up" data-aos-delay="1000">{{ .title }}<span class="watermark">{{ .watermark }}</span></h1>
         <p class="text-white pt-2 pb-3" data-aos="fade-up" data-aos-delay="1200">{{ .content | markdownify }}</p>
+
+        {{ if .download_button.enable }}
+        <button
+            class="btn btn-primary"
+            data-aos="fade-up"
+            data-aos-delay="1400"
+            onclick="document.querySelector('section.download-bottom').scrollIntoView({ behavior: 'smooth' })"
+        >
+            Download VC Assist Today!
+        </button>
+        {{ end }}
+
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | absURL  }}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="1400">{{ .label }}</a>
