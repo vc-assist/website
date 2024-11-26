@@ -33,6 +33,8 @@ team_member:
     social:
       - icon: fab fa-github
         link: https://github.com/ThatXliner
+      - icon: fab fa-linkedin
+        link: https://www.linkedin.com/in/thatxliner
   - name: Amaar Chughtai
     image: images/team/Amaar.png
     designation: Backend Developer
@@ -41,5 +43,12 @@ team_member:
         link: https://www.linkedin.com/in/amaar-chughtai-0b1508257/
       - icon: fab fa-github
         link: https://github.com/DragonXDev
+  - name: Abigail Yu
+    image: images/team/abby.jpg
+    designation: Marketing
+    social:
+      - icon: fab fa-linkedin
+        link: https://www.linkedin.com/in/abigail-yu-4284362a9/
+
 
 ---
