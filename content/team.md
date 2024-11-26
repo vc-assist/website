@@ -44,7 +44,7 @@ team_member:
       - icon: fab fa-github
         link: https://github.com/DragonXDev
   - name: Abigail Yu
-    image: images/team/stock-photo.png
+    image: images/team/abby.jpg
     designation: Marketing
     social:
       - icon: fab fa-linkedin
