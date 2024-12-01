@@ -28,7 +28,7 @@ team_member:
       - icon: fab fa-github
         link: https://github.com/jshi991
   - name: Bryan Hu
-    image: images/team/stock-photo.png
+    image: images/team/Bryan.png
     designation: Backend Developer
     social:
       - icon: fab fa-github
